@@ -1,6 +1,25 @@
-### Hi there 👋
-<h1 align="center">Hi 👋, I'm Jorge Hernandez</h1>
-<h3 align="center">a Full Stack developer with a focus on Backend development.</h3>
+<h1 align="center">Bienvenidos 👋, Yo soy Jorge Hernandez</h1>
+<h3 align="center"> Desarrollador Full Stack con enfoque en Desarrollo Backend.</h3>
+<hr>
+<h2>📄 ¿Quién soy? 📄</h2>
+<p>Soy un Desarrollador Full Stack con una sólida capacidad para trabajar en equipo y materializar proyectos web con una actitud excepcional.</p>
+<hr>
+
+<hr>
+<h2>📌 ¿Por qué yo? 📌</h2>
+<p>Al elegirme, obtendrás mucho más que excelentes habilidades técnicas. Serás acompañado por un desarrollador con un destacado liderazgo, capacidad para el trabajo en equipo, resolución de problemas, y, sobre todo, una fuerte determinación para aprender y colaborar en la consecución de los objetivos del equipo con excelencia.</p>
+<hr>
+<hr>
+<h2>🚀 Experiencia 🚀</h2>
+<p>Mi experiencia académica más sobresaliente se sitúa en el presente año, cuando asumí el rol de estudiante de Desarrollo Full Stack en Henry. Durante este periodo, adquirí nuevas metodologías y buenas prácticas, y consolidé mis conocimientos en Back-end y Front-end. También, perfeccioné mi dominio de JavaScript, incluyendo sus librerías y frameworks.
+
+Una de las experiencias más relevantes en mi recorrido fue liderar la creación de un Marketplace, cuyo propósito era democratizar el comercio minorista en municipios de Colombia con acceso limitado. En este proyecto, me desempeñé en el área de desarrollo Back-End, donde implementé sólidas prácticas para la creación de nuestra REST API.</p>
+<hr>
+<hr>
+<h2>📖 Inglés 📖</h2>
+<p>Actualmente, mi dominio del inglés se sitúa en el nivel B2 (UPPER INTERMEDIATE). Sin embargo, no dejo de esforzarme día a día con el firme propósito de elevarlo al siguiente nivel, y para lograrlo, cuento con el apoyo de la plataforma Edutin Academy.</p>
+<hr>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
